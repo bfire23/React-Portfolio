@@ -1,12 +1,13 @@
 .canyon {
-    height: 500px;
+    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
-    opacity: .6;
+    opacity: .9;
+    
 }
 
-.canyon::after {
+/* .canyon::after {
     content: "";
     display: block;
     opacity: .6;
@@ -16,17 +17,17 @@
     left: 0;
     right: 0;
     background: black;
-}
+} */
 
 .canyon h1 {
     color:black;
+    font-size: 80px;
+    padding-top: 180px;
+    margin-top: 0;
+    
   }
 
-  .canyon h1 {
-    font-size: 60px;
-    padding-top: 140px;
-    margin-top: 0;
-  }
+  
 
 
 
