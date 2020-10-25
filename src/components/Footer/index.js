@@ -3,8 +3,8 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <span>Arambula 2020</span>
+    <footer className= "navbar navbar-expand-lg navbar-dark bg-dark" id ="footer">
+     <span>Arambula 2020</span>
     </footer>
   );
 }

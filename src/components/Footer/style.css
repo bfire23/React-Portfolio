@@ -1,15 +1,20 @@
-.footer {
-    min-height: 100px;
+#footer {
+    min-height: 50px;
     text-align: center;
     
   }
   
-  .footer span {
+  #footer span {
     position: absolute;
-    bottom: 0;
+    top: 10px;
+    bottom: 0px;
     left: 0;
     right: 0;
     padding: 3px;
-    background: black;
     color:white;
+    text-align: center;
+  }
+
+  .navbar {
+    
   }
